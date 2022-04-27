@@ -1,3 +1,12 @@
 # Project exclude paths
 /.gradle/
 /build/
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
+/.idea/.gitignore
